@@ -1,0 +1,11 @@
+name: plotly_workshop
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipykernel
+  - plotly
+  - pandas
+  - matplotlib
+  - nbformat
+prefix: /home/llaszczuk/anaconda3/envs/plotly_workshop
